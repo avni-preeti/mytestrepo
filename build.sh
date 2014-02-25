@@ -20,6 +20,7 @@ echo "    "
 echo ""
 echo "*****************************"
 echo ""
+echo "test"
 
 ant -f Java_Proj1/build.xml
 #ant -f python_proj1/build.xml
